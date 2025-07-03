@@ -1,15 +1,15 @@
 # theHarvester
-This repository contains a comprehensive technical analysis and demonstration of theHarvester, a powerful Open Source Intelligence (OSINT) tool used for information gathering and reconnaissance in cybersecurity assessments.
+This repository contains a comprehensive technical analysis and demonstration of theHarvester, a powerful Open Source Intelligence (OSINT) tool used for information gathering and reconnaissance in cybersecurity assessments.\
 ⚠️ Educational Purpose Only: This portfolio is created for educational and authorized security testing purposes only. Always ensure proper authorization before conducting any reconnaissance activities.
 
-Project Objectives
+Project Objectives\
 Demonstrate proficiency in OSINT tools and techniques
 Showcase practical cybersecurity reconnaissance skills
 Provide detailed technical documentation
 Illustrate real-world security assessment methodologies
 
-Tool Overview
-theHarvester is a reconnaissance tool that gathers:
+Tool Overview\
+theHarvester is a reconnaissance tool that gathers:\
 - Email addresses
 - Subdomains and hosts
 - Employee names
@@ -58,5 +58,5 @@ theHarvester -d example.com -l 500 -b all -f results.xml
 - Output Formatting (-f): Professional reporting capabilities
 
 Let's Connect
-LinkedIn: [viqramwataf](https://www.linkedin.com/in/viqramwataf)
+LinkedIn: [viqramwataf](https://www.linkedin.com/in/viqramwataf)\
 Download free moduls: [viqramwataf](https://lynk.id/viqramwataf)
