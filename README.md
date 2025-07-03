@@ -1,6 +1,6 @@
 # theHarvester
 This repository contains a comprehensive technical analysis and demonstration of theHarvester, a powerful Open Source Intelligence (OSINT) tool used for information gathering and reconnaissance in cybersecurity assessments.<br>
-⚠️ Educational Purpose Only: <br> 
+⚠️ Educational Purpose Only <br> 
 This portfolio is created for educational and authorized security testing purposes only. Always ensure proper authorization before conducting any reconnaissance activities.
 
 Project Objectives\
