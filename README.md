@@ -60,4 +60,4 @@ theHarvester -d example.com -l 500 -b all -f results.xml
 
 Let's Connect
 LinkedIn: [viqramwataf](https://www.linkedin.com/in/viqramwataf)\
-Download free moduls: [viqramwataf](https://lynk.id/viqramwataf)
+Download free modules: [viqramwataf](https://lynk.id/viqramwataf)
