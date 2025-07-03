@@ -27,18 +27,18 @@ theHarvester --version
 ```
 
 # Basic Usage
-1. Email Harvesting
-## Basic email enumeration
+## 1. Email Harvesting
+### Basic email enumeration
 ```bash
 theHarvester -d example.com -l 100 -b bing
 ```
-2. Multi-Source Reconnaissance
-## Comprehensive information gathering
+## 2. Multi-Source Reconnaissance
+### Comprehensive information gathering
 ```bash
 theHarvester -d example.com -l 200 -b bing,yahoo,crtsh
 ```
-3. Export Results
-## Export to XML format
+## 3. Export Results
+### Export to XML format
 ```bash
 theHarvester -d example.com -l 500 -b all -f results.xml
 ```
